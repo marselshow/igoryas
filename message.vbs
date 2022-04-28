@@ -1,0 +1,15 @@
+do
+msgbox "VAS JESTKO EBUT V JOPY"
+msgbox "Vi Gay"
+msgbox "Vadim Perdenko Gay"
+msgbox "TVOYA VAT SLUHA"
+msgbox "EBAL TVOY ROT"
+msgbox "POSHOL NAHUI"
+msgbox "MAT V KANAVE"
+msgbox "EBAL ROT"
+msgbox "GONDON FRIMAN"
+msgbox "moli ioi eto kto?"
+msgbox "sosyn perdun"
+msgbox "obebish"
+msgbox "xyilan"
+loop
