@@ -1,15 +1,15 @@
 @echo off
-start keyboard.vbs
+start play.vbs
+start kakashka.vbs
 :a
 start dayn.vbs
-timeout 5
+wait
 start keyboard.vbs
 timeout 5
 start igoryas.vbs
 timeout 5
 start message.vbs
 timeout 5
-start mouse.vbs
-timeout 5
 start zasral.vbs
+timeout 5
 goto a
